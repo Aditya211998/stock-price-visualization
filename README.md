@@ -1,9 +1,4 @@
 # stock-price-visualization 
-
-
-
-
-https://aditya211998.github.io/stock-price-visualization/ Tap here for quick review of my code  
 import pandas as pd
 from investpy import Stock
 from datetime import datetime
